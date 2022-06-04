@@ -16,7 +16,10 @@ li a,
   text-decoration: none;
   float: left;
 }
-
+#head{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(250, 6, 6);
+}
 li a:hover {
   background-color: rgb(212, 212, 212);
 }
